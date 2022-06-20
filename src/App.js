@@ -20,7 +20,7 @@ function App() {
       });
       return;
     } catch {
-      alert("Preencha os campos corretamentadsae!");
+      alert("Preencha os campos corretamente!");
       setInput("");
       return;
     }
