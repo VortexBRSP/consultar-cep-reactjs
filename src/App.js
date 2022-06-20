@@ -36,7 +36,7 @@ function App() {
           <input
             type="text"
             className="entrada-cep"
-            placeholder="Digite o CEP..."
+            placeholder="Digite o cep..."
             value={input}
             onChange={(e) => {
               setInput(e.target.value);
